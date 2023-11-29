@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'dcleary1-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F009CE2C9FA94FEAB3391104F8560EF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03111CD734904636BE97FBCE2FAA730F }}
